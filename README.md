@@ -29,7 +29,7 @@ The repository is organized to make navigation easy:
 
 ## 🤖 Running the Solutions
 
-Each daily folder contains an `input.txt` file specific to the exercise and one or more code files (`solution.py`, for example). You can run the solutions using your preferred interpreter for the specific programming language.
+Each daily folder contains an `input.txt` file specific to the exercise and one or more code files (`main.py`, for example). You can run the solutions using your preferred interpreter for the specific programming language.
 
 # Example for Python
 python Advent1/main.py
