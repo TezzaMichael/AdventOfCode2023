@@ -25,7 +25,7 @@ The repository is organized to make navigation easy:
   - input-example.txt
   - input.txt
   - main.py
-...
+- ...
 
 ## 🤖 Running the Solutions
 
