@@ -16,7 +16,7 @@ This repository contains my solutions for the Advent of Code 2023 challenges. I'
 
 The repository is organized to make navigation easy:
 
-/advent-of-code-2023
+/AdventOfCode2023
 - Advent1
   - input-example.txt
   - input.txt
