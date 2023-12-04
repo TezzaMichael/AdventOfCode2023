@@ -8,10 +8,10 @@ This repository contains my solutions for the Advent of Code 2023 challenges. I'
 
 ## 🗓️ Calendar
 
-- **Day 1**: [Trebuchet?!]
-- **Day 2**: [Cube Conundrume]
-- **Day 3**: [Gear Ratios]
-- **Day 4**: [Scratchcards]
+- **Day 1**: [Trebuchet?!](https://adventofcode.com/2023/day/1)
+- **Day 2**: [Cube Conundrume](https://adventofcode.com/2023/day/2)
+- **Day 3**: [Gear Ratios](https://adventofcode.com/2023/day/3)
+- **Day 4**: [Scratchcards](https://adventofcode.com/2023/day/4)
 
 ## 📂 Repository Structure
 
