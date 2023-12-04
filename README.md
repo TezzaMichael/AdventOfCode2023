@@ -34,9 +34,9 @@ The repository is organized to make navigation easy:
 Each daily folder contains an `input.txt` file specific to the exercise and one or more code files (`main.py`, for example). You can run the solutions using your preferred interpreter for the specific programming language.
 
 # Example for Python
-
-python Advent1/main.py
-
+```bash
+> python Advent1/main.py
+```
 ## 🎁 Contributions and Feedback
 
 I'm open to contributions and feedback! If you have suggestions on how to improve the solutions or want to share yours, feel free to open a pull request.
