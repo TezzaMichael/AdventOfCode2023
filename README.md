@@ -11,12 +11,14 @@ This repository contains my solutions for the Advent of Code 2023 challenges. I'
 - **Day 1**: [Trebuchet?!]
 - **Day 2**: [Cube Conundrume]
 - **Day 3**: [Gear Ratios]
+- **Day 4**: [Scratchcards]
 
 ## 📂 Repository Structure
 
 The repository is organized to make navigation easy:
 
 /AdventOfCode2023
+
 - Advent1
   - input-example.txt
   - input.txt
@@ -32,6 +34,7 @@ The repository is organized to make navigation easy:
 Each daily folder contains an `input.txt` file specific to the exercise and one or more code files (`main.py`, for example). You can run the solutions using your preferred interpreter for the specific programming language.
 
 # Example for Python
+
 python Advent1/main.py
 
 ## 🎁 Contributions and Feedback
