@@ -12,6 +12,7 @@ This repository contains my solutions for the Advent of Code 2023 challenges. I'
 - **Day 2**: [Cube Conundrume](https://adventofcode.com/2023/day/2)
 - **Day 3**: [Gear Ratios](https://adventofcode.com/2023/day/3)
 - **Day 4**: [Scratchcards](https://adventofcode.com/2023/day/4)
+- **Day 5**: [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)
 
 ## 📂 Repository Structure
 

@@ -113,5 +113,5 @@ def Part2(input_puzzle):
 
 if __name__ == "__main__":
     input_puzzle = parse("./Advent3/input.txt")
-    #Part1(input_puzzle)
+    Part1(input_puzzle)
     Part2(input_puzzle)
