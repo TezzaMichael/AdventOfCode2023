@@ -13,6 +13,7 @@ This repository contains my solutions for the Advent of Code 2023 challenges. I'
 - **Day 3**: [Gear Ratios](https://adventofcode.com/2023/day/3)
 - **Day 4**: [Scratchcards](https://adventofcode.com/2023/day/4)
 - **Day 5**: [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)
+- **Day 6**: [Wait For It](https://adventofcode.com/2023/day/6)
 
 ## 📂 Repository Structure
 
@@ -35,9 +36,11 @@ The repository is organized to make navigation easy:
 Each daily folder contains an `input.txt` file specific to the exercise and one or more code files (`main.py`, for example). You can run the solutions using your preferred interpreter for the specific programming language.
 
 # Example for Python
+
 ```bash
 > python Advent1/main.py
 ```
+
 ## 🎁 Contributions and Feedback
 
 I'm open to contributions and feedback! If you have suggestions on how to improve the solutions or want to share yours, feel free to open a pull request.
