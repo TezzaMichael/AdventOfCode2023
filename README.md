@@ -15,8 +15,8 @@ This repository contains my solutions for the Advent of Code 2023 challenges. I'
 - **Day 5**: [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)
 - **Day 6**: [Wait For It](https://adventofcode.com/2023/day/6)
 - **Day 7**: [Camel Cards](https://adventofcode.com/2023/day/7)
+- **Day 8**: [Haunted Wasteland](https://adventofcode.com/2023/day/8)
 <!--
-- **Day 8**: [Wait For It](https://adventofcode.com/2023/day/8)
 - **Day 9**: [Wait For It](https://adventofcode.com/2023/day/9)
 - **Day 10**: [Wait For It](https://adventofcode.com/2023/day/10)
 - **Day 11**: [Wait For It](https://adventofcode.com/2023/day/11)
