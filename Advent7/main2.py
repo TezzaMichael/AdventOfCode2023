@@ -176,11 +176,11 @@ def Full(stringa):
                 lista[i]+=1
         #print(lista)
     
-    if len(lista) == 2:
-        for i in lista:
-            if lista[i] == 3 or lista[i] == 2:
-                return True
-    return False
+        if len(lista) == 2:
+            for i in lista:
+                if lista[i] == 3 or lista[i] == 2:
+                    return True
+        return False
         
 def Tris(stringa):
     if 'J' in stringa :
@@ -378,4 +378,4 @@ def Part2(filename):
     print(tot)
 
 if __name__ == "__main__":
-    Part2("./Advent7/input-example.txt")
+    Part2("./Advent7/input.txt")
